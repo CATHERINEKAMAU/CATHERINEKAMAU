@@ -19,7 +19,7 @@
 
 ## 🚀 About Me  
 
-Data-driven **AI Business Analyst & Data Analyst** with a strong foundation in **Business Information Technology**, analytics, and digital transformation. Proven ability to translate **complex datasets into executive-ready insights** using modern analytics, AI, and visualization tools.
+I’m a Data & Business Analyst dedicated to architecting robust, insight-driven frameworks that solve complex organizational challenges. With a deep-seated foundation in statistical modeling and executive-level visualization, I thrive on synthesizing raw information into intuitive, user-centric experiences that optimize operational performance.
 
 I operate at the intersection of **data, AI, and business strategy**—where offering clarity beats offering charts.
 
@@ -52,15 +52,6 @@ I operate at the intersection of **data, AI, and business strategy**—where off
 ### ☁️ Cloud, AI & Advanced Analytics
 ![Oracle](https://img.shields.io/badge/Oracle_Generative_AI-AI_Assisted_Analytics-FF0000?style=flat&logo=oracle&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-Scalable_Analytics_&_GenAI-FF3621?style=flat)
-![AWS](https://img.shields.io/badge/AWS-Cloud_Foundations_&_Data_Services-232F3E?style=flat&logo=amazonaws&logoColor=white
-
-## 📌 Featured Projects (In Progress 🚧)
-
-🚧 **AI Financial Chatbot** – Python, pandas, Generative AI  
-🚧 **Power BI Executive Dashboard** – KPI & trend analysis  
-🚧 **Digital Analytics Performance Tracker** – GA4 & GTM  
-
----
 
 ---
 
@@ -79,7 +70,7 @@ I operate at the intersection of **data, AI, and business strategy**—where off
 <h2 align="center">🤝 Let’s Collaborate</h2>
 
 <p align="center">
-I partner with teams and individuals who believe data should <b>inform decisions, not just decorate slides</b>.
+I partner with organizations that view data as a catalyst for growth, moving beyond simple reporting to drive meaningful, evidence-based results.</b>.
 </p>
 
 <br/>
