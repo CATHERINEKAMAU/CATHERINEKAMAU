@@ -23,16 +23,6 @@ Data-driven **AI Business Analyst & Data Analyst** with a strong foundation in *
 
 I operate at the intersection of **data, AI, and business strategy**—where offering clarity beats offering charts.
 
-## 🧠 Strategic Capabilities  
-
-- 📊 Data Analysis & Dashboard Design (Power BI)  
-- 🤖 Generative AI for Business & Finance  
-- 📈 KPI Definition, Tracking & Performance Analysis  
-- 🔍 Market Research & Insight Synthesis  
-- 🌐 Digital & Web Analytics (GA4, GTM)  
-- 🧩 Process Mapping & Gap Identification  
-- 🛡️ GDPR & Data Protection Awareness  
-
 ## 🛠️ Tech Stack
 
 ### 📊 Data Analysis & Business Intelligence
