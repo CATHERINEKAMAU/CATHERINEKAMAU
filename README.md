@@ -67,37 +67,40 @@ I operate at the intersection of **data, AI, and business strategy**—where off
 
 ---
 
-<h2 align="center">🤝 Let’s Collaborate</h2>
+
+<h2 align="center">🤝 Collaboration Mode: ON</h2>
 
 <p align="center">
-I partner with organizations that view data as a catalyst for growth, moving beyond simple reporting to drive meaningful, evidence-based results.</b>.
+I work with teams who believe data should <b>move decisions, not just decorate dashboards</b>.
 </p>
 
 <br/>
 
 <p align="center">
-🚀 <b>Open To</b>
+💼 <b>Open To</b>
 </p>
 
 <p align="center">
-✔ Data Analyst & AI Analyst Roles <br/>
-✔ Generative AI & Analytics Projects <br/>
-✔ Business Intelligence & Executive Reporting <br/>
-✔ Research, Insights & Digital Strategy Consulting
+🔹 Data Analyst & AI Analyst Roles <br/>
+🔹 Generative AI & Analytics Projects <br/>
+🔹 Business Intelligence & Executive Reporting <br/>
+🔹 Research, Insights & Digital Strategy Consulting
 </p>
 
 <br/>
 
 <p align="center">
-✨ <i>Shows up curious. Leaves measurable impact.</i>
+<i>Curiosity-driven. Outcome-focused. Built for real-world impact.</i>
 </p>
 
 <br/>
 
 <p align="center">
 <a href="mailto:catherine.kamau381@gmail.com">
-  <img src="https://img.shields.io/badge/Let’s_Connect-Build_Something_Smart-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Start_the_Conversation-Insight_First-36BCF7?style=for-the-badge"/>
 </a>
 </p>
 
 ---
+
+
