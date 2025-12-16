@@ -93,14 +93,37 @@ _(Repositories will be linked here for maximum recruiter visibility.)_
 
 ---
 
-## 🤝 Collaboration & Opportunities  
+<h2 align="center">🤝 Let’s Collaborate</h2>
 
-Open to:  
-✔ Data Analyst roles  
-✔ AI & Generative AI projects  
-✔ Business Intelligence & Reporting  
-✔ Research & Insight Consulting  
+<p align="center">
+I partner with teams and individuals who believe data should <b>inform decisions, not just decorate slides</b>.
+</p>
 
-Shows up curious. Leaves impact.
+<br/>
 
-📬 Let’s build insight-driven solutions that move the needle.
+<p align="center">
+🚀 <b>Open To</b>
+</p>
+
+<p align="center">
+✔ Data Analyst & AI Analyst Roles <br/>
+✔ Generative AI & Analytics Projects <br/>
+✔ Business Intelligence & Executive Reporting <br/>
+✔ Research, Insights & Digital Strategy Consulting
+</p>
+
+<br/>
+
+<p align="center">
+✨ <i>Shows up curious. Leaves measurable impact.</i>
+</p>
+
+<br/>
+
+<p align="center">
+<a href="mailto:catherine.kamau381@gmail.com">
+  <img src="https://img.shields.io/badge/Let’s_Connect-Build_Something_Smart-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
