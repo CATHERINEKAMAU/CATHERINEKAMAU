@@ -66,43 +66,7 @@ I operate at the intersection of **data, AI, and business strategy**—where off
 
 ---
 
-## 💼 Experience Highlights  
 
-### 🏢 Vision One Group Limited  
-**IT Support & Digital Marketing Intern**  
-📅 March 2025 – Present  
-
-- Ensured system stability and resolved network issues  
-- Delivered analytics for digital marketing performance  
-- Conducted market research to guide strategic decisions  
-- Implemented GA4 & GTM tracking for visibility & optimization  
-
----
-
-### 🤖 BCG – GenAI Consulting (Forage)  
-
-- Built a **Python-based AI financial chatbot**  
-- Analyzed **10-K & 10-Q reports** using pandas  
-- Delivered simplified, decision-ready financial insights  
-
----
-
-### 📊 Tata Consultancy Services – Data Visualization (Forage)  
-
-- Designed executive-level dashboards  
-- Translated data into leadership-ready visuals  
-- Supported insight-driven decision-making  
-
----
-
-### 🏛️ National Treasury – Kenya  
-**ICT Attaché | Digital Payments**  
-
-- Conducted market research on digital payment systems  
-- Supported secure transaction optimization  
-- Collaborated on digital infrastructure improvements  
-
----
 
 ## 📌 Featured Projects (In Progress 🚧)
 
@@ -114,28 +78,6 @@ I operate at the intersection of **data, AI, and business strategy**—where off
 _(Repositories will be linked here for maximum recruiter visibility.)_
 
 ---
-
-## 🎓 Education  
-
-🎓 **Bachelor of Business Information Technology (BBIT)**  
-**JKUAT** — Second Class Upper Honours  
-
-📌 Capstone Project:  
-**Online Student Clearance System**  
-Automated approvals & scheduling to improve efficiency
-
----
-
-## 🏅 Certifications  
-
-✔ Oracle Cloud Infrastructure 2025 – Generative AI Professional  
-✔ Oracle AI Foundations Associate  
-✔ Databricks Generative AI Fundamentals  
-✔ Power BI – Alison & Great Learning  
-✔ Data Analytics & Data Science – Cisco  
-✔ Excel for Data Analysis – DataCamp  
-✔ Digital Marketing – HubSpot  
-✔ GDPR & Data Protection – Alison  
 
 ---
 
