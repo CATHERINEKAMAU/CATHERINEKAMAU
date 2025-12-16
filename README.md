@@ -17,23 +17,11 @@
 
 ---
 
-## 🚀 Executive Summary  
+## 🚀 About Me  
 
 Data-driven **AI Business Analyst & Data Analyst** with a strong foundation in **Business Information Technology**, analytics, and digital transformation. Proven ability to translate **complex datasets into executive-ready insights** using modern analytics, AI, and visualization tools.
 
 I operate at the intersection of **data, AI, and business strategy**—where offering clarity beats offering charts.
-
----
-
-## 🎯 Core Value Proposition  
-
-✔ Data → Insights → Decisions  
-✔ Dashboards executives actually trust  
-✔ Generative AI applied to real business use-cases  
-✔ Performance tracking with measurable impact  
-✔ Analytics aligned to business objectives  
-
----
 
 ## 🧠 Strategic Capabilities  
 
@@ -45,37 +33,42 @@ I operate at the intersection of **data, AI, and business strategy**—where off
 - 🧩 Process Mapping & Gap Identification  
 - 🛡️ GDPR & Data Protection Awareness  
 
----
+## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack  
+### 📊 Data Analysis & Business Intelligence
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboarding_&_Data_Storytelling-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-Interactive_Data_Visualization-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Advanced_Analysis_&_Modeling-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-Data_Analysis_&_Collaboration-34A853?style=flat&logo=googlesheets&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Data_Querying_&_Aggregation-blue)
 
-### 📊 Data & Analytics  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Basic-blue)
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white)
+### 🐍 Programming & Data Processing
+![Python](https://img.shields.io/badge/Python-Data_Analysis_&_Automation-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-Data_Wrangling-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=flat&logo=numpy&logoColor=white)
 
-### 🤖 AI & Cloud  
-![Oracle](https://img.shields.io/badge/Oracle_Generative_AI-FF0000?style=flat&logo=oracle&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-Generative_AI-FF3621?style=flat)
-![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=flat&logo=amazonaws&logoColor=white)
+### 📈 Data Visualization & Reporting
+![Power BI](https://img.shields.io/badge/Power_BI-Executive_Dashboards-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-Storytelling_&_Insights-E97627?style=flat&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-Marketing_&_Product_Analytics-4285F4?style=flat&logo=googleanalytics&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Exploratory_Visualization-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Visualization-4C72B0?style=flat)
 
-### 🌐 Digital & Web Analytics  
-![GA4](https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat&logo=googleanalytics&logoColor=white)
-![GTM](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat&logo=googletagmanager&logoColor=white)
+### 🌐 Data Sources, Tracking & Analytics
+![GA4](https://img.shields.io/badge/GA4-Web_&_User_Behavior_Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
+![GTM](https://img.shields.io/badge/Google_Tag_Manager_Event_Tracking-246FDB?style=flat&logo=googletagmanager&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-Data_Integration-grey)
 
----
-
-
+### ☁️ Cloud, AI & Advanced Analytics
+![Oracle](https://img.shields.io/badge/Oracle_Generative_AI-AI_Assisted_Analytics-FF0000?style=flat&logo=oracle&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-Scalable_Analytics_&_GenAI-FF3621?style=flat)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Foundations_&_Data_Services-232F3E?style=flat&logo=amazonaws&logoColor=white
 
 ## 📌 Featured Projects (In Progress 🚧)
 
 🚧 **AI Financial Chatbot** – Python, pandas, Generative AI  
 🚧 **Power BI Executive Dashboard** – KPI & trend analysis  
 🚧 **Digital Analytics Performance Tracker** – GA4 & GTM  
-🚧 **Online Student Clearance System** – Process automation  
-
-_(Repositories will be linked here for maximum recruiter visibility.)_
 
 ---
 
