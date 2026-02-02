@@ -55,29 +55,22 @@ I operate at the intersection of **data, AI, and business strategy**—where off
 
 ---
 
-
-
 ## 📊 GitHub Analytics  
 
-
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=catherinekamau&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" 
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CATHERINEKAMAU&theme=radical&hide_border=true&area=true" width="800" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=catherinekamau&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" 
-    alt="GitHub Streak"
-  />
+  <img src="https://img.shields.io/badge/Total_Contributions-Calculated_on_Profile-36BCF7?style=for-the-badge&logo=github" />
 </p>
 
-
-
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CATHERINEKAMAU&show_icons=true&theme=radical&hide_border=true" alt="Catherine's Stats" />
+</p>
 
 ---
+
 
 <h2 align="center">🤝 Collaboration Mode: ON</h2>
 
