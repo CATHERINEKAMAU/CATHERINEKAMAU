@@ -54,24 +54,22 @@ I operate at the intersection of **data, AI, and business strategy**—where off
 ![Databricks](https://img.shields.io/badge/Databricks-Scalable_Analytics_&_GenAI-FF3621?style=flat)
 
 ---
-
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CATHERINEKAMAU&theme=radical&hide_border=true&area=true" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CATHERINEKAMAU&theme=radical&hide_border=true&area=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="850" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-Calculated_on_Profile-36BCF7?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total_Contributions-316-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Longest_Streak-9_Days-red?style=for-the-badge&logo=git" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CATHERINEKAMAU&show_icons=true&theme=radical&hide_border=true" alt="Catherine's Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CATHERINEKAMAU&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Catherine's Stats" />
 </p>
 
 ---
-
-
 <h2 align="center">🤝 Collaboration Mode: ON</h2>
 
 <p align="center">
