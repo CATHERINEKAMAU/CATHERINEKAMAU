@@ -60,17 +60,16 @@ I operate at the intersection of **data, AI, and business strategy**—where off
 ## 📊 GitHub Analytics  
 
 
-
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=catherinekamau&show_icons=true&theme=radical&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=catherinekamau&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" 
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=catherinekamau&theme=radical&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=catherinekamau&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" 
     alt="GitHub Streak"
   />
 </p>
